@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="shanming">
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst34|lpm_add_sub:Add2" CBX_FILE_NAME="add_sub_1sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDcounter:inst10|lpm_add_sub:Add0" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDcounter:inst8|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_1sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDcounter:inst9|lpm_add_sub:Add0" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|_initial:inst|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_ith.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst32|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst33|lpm_add_sub:Add0" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDcounter:inst10|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_1sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDcounter:inst9|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_1sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst32|lpm_add_sub:Add2" CBX_FILE_NAME="add_sub_1sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst33|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst34|lpm_add_sub:Add0" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst33|lpm_add_sub:Add2" CBX_FILE_NAME="add_sub_1sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst34|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_c8i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDcounter:inst8|lpm_add_sub:Add0" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|_initial:inst|lpm_add_sub:Add0" CBX_FILE_NAME="add_sub_2sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|shanming|BCDadder:inst32|lpm_add_sub:Add0" CBX_FILE_NAME="add_sub_eoh.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

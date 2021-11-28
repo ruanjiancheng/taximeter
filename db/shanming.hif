@@ -1,0 +1,152 @@
+Version 6.0 Build 202 06/20/2006 Service Pack 1 SJ Full Version
+39
+2100
+OFF
+OFF
+OFF
+OFF
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Partition --
+-- End Partition --
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+BCDcounter
+# storage
+db|shanming.(4).cnf
+db|shanming.(4).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+BCDcounter.v
+955ee89341d264628d2f501accc122
+7
+# internal_option {
+AUTO_RESOURCE_SHARING
+OFF
+}
+# hierarchies {
+BCDcounter:inst8
+BCDcounter:inst9
+BCDcounter:inst10
+}
+# end
+# entity
+CountUseLight
+# storage
+db|shanming.(3).cnf
+db|shanming.(3).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+CountUseLight.v
+96143a930419793b264f782169d47d
+7
+# internal_option {
+AUTO_RESOURCE_SHARING
+OFF
+}
+# hierarchies {
+CountUseLight:inst27
+CountUseLight:inst28
+}
+# end
+# entity
+Display
+# storage
+db|shanming.(1).cnf
+db|shanming.(1).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+Display.v
+64e34f4d4435af19251be738f29fbf6a
+7
+# internal_option {
+AUTO_RESOURCE_SHARING
+OFF
+}
+# hierarchies {
+Display:inst30
+}
+# end
+# entity
+BCDadder
+# storage
+db|shanming.(2).cnf
+db|shanming.(2).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+BCDadder.v
+a6e8511cab10d7e6d1aba66da379efa
+7
+# internal_option {
+AUTO_RESOURCE_SHARING
+OFF
+}
+# hierarchies {
+BCDadder:inst33
+BCDadder:inst34
+BCDadder:inst32
+}
+# end
+# entity
+shanming
+# storage
+db|shanming.(0).cnf
+db|shanming.(0).cnf
+# case_insensitive
+# source_file
+shanming.bdf
+d6fa128635eabe7386b16557f680828
+24
+# hierarchies {
+|
+}
+# end
+# entity
+_initial
+# storage
+db|shanming.(5).cnf
+db|shanming.(5).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+_initial.v
+4d86cb9015d0bc90d0a97b6ae30db3
+7
+# internal_option {
+AUTO_RESOURCE_SHARING
+OFF
+}
+# hierarchies {
+_initial:inst
+}
+# end
+# complete
+
